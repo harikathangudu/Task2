@@ -1,26 +1,5 @@
-# Task2
-##Python Internship Task 2 - Expense Tracker using CSV and File Handling
+
 # Task 2 - Expense Tracker
-
-## 📌 Project Description
-This is a Python CLI based Expense Tracker application.
-It allows the user to:
-- Add expenses
-- View all expenses
-- Calculate total expenses
-- Store data in a CSV file
-
----
-
-## 🚀 Features
-- Uses Python functions
-- Uses CSV file handling
-- Menu-driven program
-- Simple and easy to use
-
----
-
-## 🧠 Python Code
 
 ```python
 import csv
